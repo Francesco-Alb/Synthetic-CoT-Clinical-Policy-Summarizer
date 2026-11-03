@@ -10,3 +10,9 @@ env/
 
 # Secret keys
 .env
+
+# File types
+*.csv
+
+# OS generated files
+desktop.ini
